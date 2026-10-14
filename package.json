@@ -63,7 +63,7 @@
     "@reduxjs/toolkit": "^2.12.0",
     "@sinclair/typebox": "^0.34.52",
     "about-window": "^1.15.2",
-    "adm-zip": "^0.6.0",
+    "adm-zip": "^0.6.1",
     "chokidar": "^5.0.0",
     "chroma-js": "^3.2.0",
     "commander": "^15.0.0",
@@ -108,7 +108,7 @@
     "spark-md5": "^3.0.2",
     "styled-components": "^6.5.3",
     "ts-flood-fill": "^1.0.2",
-    "uuid": "^14.0.1",
+    "uuid": "^14.0.3",
     "wavefile": "^11.0.0"
   },
   "devDependencies": {
@@ -156,7 +156,7 @@
     "confusing-browser-globals": "^1.0.11",
     "copy-webpack-plugin": "^14.0.0",
     "cross-env": "^10.1.0",
-    "electron": "42.6.1",
+    "electron": "42.10.0",
     "eslint": "10.8.1",
     "eslint-config-prettier": "^10.1.8",
     "eslint-import-resolver-typescript": "^4.4.5",
@@ -185,7 +185,7 @@
     "webpack": "^5.108.4",
     "webpack-bundle-analyzer": "^5.3.1",
     "webpack-cli": "^7.2.1",
-    "webpack-dev-server": "5.2.6",
+    "webpack-dev-server": "6.0.0",
     "workbox-webpack-plugin": "^7.4.0"
   },
   "packageManager": "yarn@4.17.1+sha256.471ffb15e0523663865bbf46a69e7d157ecf532412eb436c48dfab6e3f2abe88",
